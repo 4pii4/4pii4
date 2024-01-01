@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**4pii4/4pii4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm pie/pi/pi.kt, nerd who enjoy programming, math and gaming.
+- Programming languages: python, c, java&kt
+- Location: northern Vietnam
+- Age: 17
+- My website: [pie.is-a.dev](https://pie.is-a.dev)
+- Email: not needed
+- Discord: `pi.kt`(1018396405498396753)
 
-Here are some ideas to get you started:
+<details>
+  <summary>My system spec</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  * CPU: Intel Xeon E-2286M
+  * GPU: NVIDIA Quadro T2000 Max-Q
+  * Memory: 2x32GB DDR4 2666MHz
+  * Storage: 1TB Samsung P981a + 512GB WD Black thingy
+  * OS: mainly Windows but I use linux sometimes
+
+</details>
